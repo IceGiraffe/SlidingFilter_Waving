@@ -1,2 +1,8 @@
 Mem	Alg	f1	pr	cr	aae	are
 Waving_Filter<16,8>	33.5491
+Waving_Pure<16,8>	31.1195
+Waving_Filter<16,8>	33.508
+Waving_Pure<16,8>	31.0272
+Waving_Filter<16,8>	33.608
+Waving_Pure<16,8>	31.0843
+Waving_Filter<16,8>	33.3398
