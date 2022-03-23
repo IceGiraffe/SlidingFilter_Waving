@@ -1,0 +1,2 @@
+Mem	Alg	f1	pr	cr	aae	are
+Waving_Filter<16,8>	33.5491
