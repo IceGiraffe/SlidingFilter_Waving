@@ -1,3 +1,4 @@
+// BOBHash32
 #ifndef _BOBHASH32_H
 #define _BOBHASH32_H
 #include <stdio.h>
